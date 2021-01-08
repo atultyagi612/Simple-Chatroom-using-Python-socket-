@@ -28,3 +28,11 @@ Now you can see client names in the HOST terminal
 
 ![plot](conversation.jpg)
 
+# System Requirements :
+
+Python 3.6 or greater
+
+Threading (inbuild in Python Standard Library)
+
+Sockets (inbuild in Python Standard Library)
+
